@@ -46,3 +46,9 @@ the trachea is midline. the cardiomediastinal silhouette ap- pears normal. The l
 
 #### Ground: 
 normal heart size. normal pulmonary vasculature. normal medi- astinal contours. lung parenchyma is clear. no airspace disease. no pulmonary edema.
+
+## Report
+To understand the model's detail, please refer to the report.
+[Report.pdf](https://github.com/asd08573064/Automatic-Medical-Report-Generator/files/7229854/Team_9.pdf)
+
+
